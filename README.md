@@ -4,10 +4,11 @@ Data Visualization – Superstore Sales Dataset
 Description
 ---
 
-This project focuses on analyzing and visualizing real-world retail sales data using Python data visualization techniques.
-The Superstore dataset is used to extract insights related to sales, profit, region performance, product trends, and customer segments.
+This project analyzes real-world retail sales data using Python to generate meaningful insights through data visualization.
 
-The project demonstrates the complete pipeline of data loading → cleaning → analysis → visualization → insight generation.
+The Superstore dataset is used to study sales, profit, regional performance, product trends, and customer segments.
+
+The workflow includes data loading → cleaning → analysis → visualization → extraction of business insights.
 
 Technologies Used
 ----
@@ -24,10 +25,10 @@ Features
 ---
 
 * Data cleaning and preprocessing using Pandas
-* Exploratory Data Analysis (EDA)
-* Business insight extraction from dataset
-* Creation of professional charts and graphs
-* Saved visualizations for portfolio use
+* Exploratory Data Analysis (EDA) on retail sales dataset
+* Handling and transformation of real-world data
+* Creation of multiple professional data visualizations using Matplotlib and Seaborn
+* Extraction of meaningful business insights from data
 
 🎥 Demo Video
 ---
