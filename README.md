@@ -50,3 +50,35 @@ DataVisualization_Project
 │   └── sales_by_segment.png
 └── README.md                         # Project documentation
 ```
+
+How to Run
+---
+
+### 1️⃣ Clone the repository
+```bash
+git clone <repository-link>
+```
+
+### 2️⃣ Open the project folder
+```bash
+cd DataVisualization_Project
+```
+
+### 3️⃣ Install required libraries (run one by one)
+```bash
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install jupyter
+```
+
+
+### 4️⃣ Run Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+### 5️⃣ Open and run project file
+```bash
+DataVisualization_Project.ipynb
+```
