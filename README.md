@@ -96,3 +96,19 @@ Output
 ### 📈Total Sales by Category
 ---
 ![Sales by Category](images/sales_by_category.png)
+
+### 🌍Profit by Region
+---
+![Profit by Region](images/profit_by_region.png)
+
+### 📅 Monthly Sales Trend
+---
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### 🏆 Top 10 Products
+---
+![Top Products](images/top_products.png)
+
+### 👥 Sales by Segment
+---
+![Sales by Segment](images/sales_by_segment.png)
