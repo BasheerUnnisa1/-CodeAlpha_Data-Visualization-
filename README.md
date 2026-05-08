@@ -82,3 +82,11 @@ jupyter notebook
 ```bash
 DataVisualization_Project.ipynb
 ```
+Output
+---
+
+* Sales analysis insights
+* Profit distribution insights
+* Monthly sales trend visualization
+* Top product performance analysis
+* Customer segment analysis
