@@ -28,3 +28,9 @@ Features
 * Business insight extraction from dataset
 * Creation of professional charts and graphs
 * Saved visualizations for portfolio use
+
+🎥 Demo Video
+---
+
+▶️ Watch the project demonstration here:
+
