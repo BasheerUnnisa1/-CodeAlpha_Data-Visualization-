@@ -34,3 +34,19 @@ Features
 
 ▶️ Watch the project demonstration here:
 
+Repository Structure
+---
+
+```
+DataVisualization_Project
+│
+├── DataVisualization_Project.ipynb   # Main notebook (EDA + Visualizations)
+├── Sample - Superstore.csv           # Dataset used for analysis
+├── images                            # Saved charts
+│   ├── sales_by_category.png
+│   ├── profit_by_region.png
+│   ├── monthly_sales_trend.png
+│   ├── top_products.png
+│   └── sales_by_segment.png
+└── README.md                         # Project documentation
+```
