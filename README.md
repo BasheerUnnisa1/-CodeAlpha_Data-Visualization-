@@ -90,3 +90,9 @@ Output
 * Monthly sales trend visualization
 * Top product performance analysis
 * Customer segment analysis
+
+  ## 📊 Visualizations
+
+### 📈Total Sales by Category
+---
+![Sales by Category](images/sales_by_category.png)
