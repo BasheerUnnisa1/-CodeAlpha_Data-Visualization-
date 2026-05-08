@@ -5,19 +5,18 @@ Description
 ---
 
 This project analyzes real-world retail sales data using Python to generate meaningful insights through data visualization.
-
 The Superstore dataset is used to study sales, profit, regional performance, product trends, and customer segments.
 
 The workflow includes data loading → cleaning → analysis → visualization → extraction of business insights.
 
 Technologies Used
 ----
+
 | Category | Tools |
 |----------|------|
 | Programming | Python |
 | Data Handling | Pandas |
-| Visualization | Matplotlib |
-| Visualization | Seaborn |
+| Visualization | Matplotlib, Seaborn |
 | Environment | Jupyter Notebook |
 | Version Control | Git & GitHub |
 
@@ -41,15 +40,15 @@ Repository Structure
 ```
 DataVisualization_Project
 │
-├── DataVisualization_Project.ipynb   # Main notebook (EDA + Visualizations)
-├── Sample - Superstore.csv           # Dataset used for analysis
-├── images                            # Saved charts
-│   ├── sales_by_category.png
-│   ├── profit_by_region.png
-│   ├── monthly_sales_trend.png
-│   ├── top_products.png
-│   └── sales_by_segment.png
-└── README.md                         # Project documentation
+├── DataVisualization_Project.ipynb    # Main notebook (EDA + Visualizations)
+├── Sample - Superstore.csv            # Dataset used for analysis
+├── images                             # Saved visualization outputs
+│ ├── sales_by_category.png
+│ ├── profit_by_region.png
+│ ├── monthly_sales_trend.png
+│ ├── top_products.png
+│ └── sales_by_segment.png
+└── README.md                           # Project documentation               
 ```
 
 How to Run
@@ -65,32 +64,29 @@ git clone <repository-link>
 cd DataVisualization_Project
 ```
 
-### 3️⃣ Install required libraries (run one by one)
+### 3️⃣ Install required libraries
 ```bash
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install jupyter
+pip install pandas matplotlib seaborn jupyter
 ```
 
-
-### 4️⃣ Run Jupyter Notebook
+### 4️⃣ Launch Jupyter Notebook
 ```bash
 jupyter notebook
 ```
 
-### 5️⃣ Open and run project file
+### 5️⃣ Open and run the notebook
 ```bash
 DataVisualization_Project.ipynb
 ```
+
 Output
 ---
 
-* Sales analysis insights
-* Profit distribution insights
-* Monthly sales trend visualization
-* Top product performance analysis
-* Customer segment analysis
+* Sales analysis insights  
+* Profit distribution analysis  
+* Monthly sales trend visualization  
+* Top product performance analysis  
+* Customer segment analysis  
 
   ## 📊 Visualizations
 
@@ -117,14 +113,15 @@ Output
 Skills Demonstrated
 ---
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Insight Generation
-* Git & GitHub workflow
-  
+* Data Cleaning  
+* Exploratory Data Analysis (EDA)  
+* Data Visualization  
+* Business Insight Generation  
+* Git & GitHub Workflow  
+
 Author
 ---
-Shaik Basheer Unnisa
 
-Data Analyst | Data Visualization Enthusiast
+Shaik Basheer Unnisa  
+
+> Data Analyst | Data Visualization Enthusiast
