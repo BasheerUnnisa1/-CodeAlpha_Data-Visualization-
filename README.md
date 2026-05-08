@@ -19,3 +19,12 @@ Technologies Used
 | Visualization | Seaborn |
 | Environment | Jupyter Notebook |
 | Version Control | Git & GitHub |
+
+Features
+---
+
+* Data cleaning and preprocessing using Pandas
+* Exploratory Data Analysis (EDA)
+* Business insight extraction from dataset
+* Creation of professional charts and graphs
+* Saved visualizations for portfolio use
