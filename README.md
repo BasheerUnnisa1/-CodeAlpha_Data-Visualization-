@@ -112,3 +112,18 @@ Output
 ### 👥 Sales by Segment
 ---
 ![Sales by Segment](images/sales_by_segment.png)
+
+Skills Demonstrated
+---
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Insight Generation
+* Git & GitHub workflow
+  
+Author
+---
+Shaik Basheer Unnisa
+
+Data Analyst | Data Visualization Enthusiast
