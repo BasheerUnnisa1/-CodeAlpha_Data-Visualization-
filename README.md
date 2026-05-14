@@ -29,10 +29,13 @@ Features
 * Creation of multiple professional data visualizations using Matplotlib and Seaborn
 * Extraction of meaningful business insights from data
 
-🎥 Demo Video
----
 
-▶️ Watch the project demonstration here:
+🎥 Demo Video
+----
+
+▶️ Watch the project demonstration here: 
+
+[Demo Vedio](https://youtu.be/vjpJy8aiu0E)
 
 Repository Structure
 ---
